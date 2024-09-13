@@ -1,0 +1,15 @@
+name: HCFShop
+version: 1.0
+main: me.hcfalerts.coinshop.HCFShop
+commands:
+  coinshop:
+    description: Coinshop command
+    aliases: [buy]
+  coins:
+    description: Check how many coins you have
+    usage: /coins
+    permission: coinshop.use
+  coinsmanager:
+    description: Manage player coins
+    usage: /coinsmanager <player> <add/set/remove> <amount>
+    permission: coinshop.manager
