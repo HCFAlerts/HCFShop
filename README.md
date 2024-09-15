@@ -18,6 +18,11 @@ Cart Menu:
 
 ![image](https://github.com/user-attachments/assets/7b40ebc5-3410-4bfa-9fdc-c2fce4ef8c55)
 
+Messages:
+
+![image](https://github.com/user-attachments/assets/774d6ada-a1b6-4e44-b050-4b764e484759)
+
+
 ---
 ## Needed Libraries
 - **Spigot 1.8**: [Click to Download](https://papermc.io)
